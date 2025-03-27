@@ -1,0 +1,22 @@
+export const cyberpunkColors = {
+    background: "#000",
+    text: "#00FF00",
+    headerBackground: "#00FF00",
+    headerText: "#000",
+    headerShadow: "#FF00FF",
+    navLink: "#FFFF00",
+    navLinkHover: "#FF00FF",
+    sectionBackground: "rgba(0, 255, 0, 0.1)",
+    sectionBorder: "#FF00FF",
+    heroText: "#FFFF00",
+    heroBorder: "#00FFFF",
+    heroContentBackground: "rgba(0, 0, 0, 0.7)",
+    buttonBackground: "#FF00FF",
+    buttonText: "#000",
+    buttonHoverBackground: "#00FF00",
+    productCardBackground: "rgba(0, 0, 0, 0.5)",
+    productCardText: "#FFFF00",
+    footerBackground: "#000",
+    footerText: "#00FF00",
+};
+
